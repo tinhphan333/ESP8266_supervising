@@ -1,5 +1,4 @@
 # ESP8266_supervising
-# Car_supervising_system
 __LIBRARY FOR PROJECT__
 
 1. For GPS module Neo-6M:
