@@ -2,12 +2,15 @@
 
 ## 1. Overview
 
-<img src = "DATN_img/overview_system.png" width = "1000px" height = "450px">
-asdadasdas
-    
+<img src = "DATN_img/overview_system.png" width = "900px" height = "450px">
 
-## 2. Hardware 
-    
+## 2. Hardware
+
+MCU: ESP8266  
+Communication Protocol: SPI, WiFi, CAN  
+
+<img src = "DATN_img/ESP8266.png" width = "900px" height = "450px">
+
 ## 3. Library
 
 1. For GPS module Neo-6M:
