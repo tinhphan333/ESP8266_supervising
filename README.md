@@ -3,6 +3,8 @@
 ## 1. Overview
 
 <p align = "center">
+    ![overview_system](https://github.com/user-attachments/assets/326cbc6a-8178-40e6-9cfd-86a84c91359b)
+
 <img src = "https://github.com/user-attachments/assets/2bb0d6df-899c-40e8-b7dd-6fe876522e76" width = "300" height = "150" alt = "">
 
 
