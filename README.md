@@ -3,8 +3,7 @@
 ## 1. Overview
 
 <p align = "center">
-<img src = "https://github.com/user-attachments/assets/2bb0d6df-899c-40e8-b7dd-6fe876522e76" width = "300" height = "150" alt = "">
-
+<img src = "DATN_img/overview_system.png" width = "300" height = "150" alt = ""
 
 ## 2. Hardware 
     
