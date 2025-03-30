@@ -2,8 +2,9 @@
 
 ## 1. Overview
 
-<p align = "center">
 <img src = "DATN_img/overview_system.png" width = "1000px" height = "450px">
+asdadasdas
+    
 
 ## 2. Hardware 
     
