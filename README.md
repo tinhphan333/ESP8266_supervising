@@ -3,7 +3,7 @@
 ## 1. Overview
 
 <p align = "center">
-<img src = "DATN_img/overview_system.png" width = "300px" height = "150px">
+<img src = "DATN_img/overview_system.png" width = "1000px" height = "450px">
 
 ## 2. Hardware 
     
